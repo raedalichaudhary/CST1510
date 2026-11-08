@@ -1,0 +1,6 @@
+Label,Percent,Status
+CPU,75%,OK
+RAM,95%,WARNING 
+Disc,105%,OVER LIMIT
+Network,60%,OK 
+Temperature ,92%,WARNING 

@@ -1,0 +1,3 @@
+Learning Python step by step.
+Practicing file handling.
+Improving my coding skills.
